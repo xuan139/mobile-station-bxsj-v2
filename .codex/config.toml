@@ -1,0 +1,7 @@
+[agents]
+max_threads = 4
+
+[agents.bxsj_architect]
+description = "管理 BXSJ V2 邊界、契約與階段驗收，不得修改 Green V2。"
+config_file = "agents/bxsj-architect.toml"
+
